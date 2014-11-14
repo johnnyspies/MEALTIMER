@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/johnnyspies/Desktop/Mealtimer/Mealtimer/build/iphone/Classes/KrollPropertyDelegate.m \
+  /Users/johnnyspies/Desktop/Mealtimer/Mealtimer/build/iphone/Classes/KrollPropertyDelegate.h
